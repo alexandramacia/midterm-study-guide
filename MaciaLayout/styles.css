@@ -1,0 +1,11 @@
+font-family: 'Lora', serif;
+#content {margin:0 auto;
+width:740px;}
+h1,h4,h5{font-family: 'Montserrat', sans-serif;}
+h4,h5 {font-style:italic;}
+body{font-family: 'Lora', serif;}
+.topperimage img{width: 100%;}
+.imagewrapper p{margin-top: 0;
+color:grey;
+font-family: 'Montserrat', sans-serif;}
+.imagewrapper {margin: 35px 0;}
